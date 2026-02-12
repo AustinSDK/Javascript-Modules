@@ -1,3 +1,7 @@
+/*
+ * Programmed by Austin, with help of ai.
+ * JSDelivr Link: https://cdn.jsdelivr.net/gh/AustinSDK/Javascript-Modules@main/modules/Colors.js
+*/
 function getClosestColor(color, colors){ // {"blue-168": "#hex"} // as hex
     function hexToString(hexx) {
         // Convert hex to decimal number directly

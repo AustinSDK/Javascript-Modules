@@ -2,6 +2,7 @@
  * Created by Austin
  * Requires ./Colors.js & ./Conversions.js
  * TODO: Connect browserify or related
+ * https://cdn.jsdelivr.net/gh/AustinSDK/Javascript-Modules@latest/modules/TuiCssImagesModule.js
 */
 let colors = { // simple override
     "black-168": "#000000",
